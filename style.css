@@ -1,0 +1,16 @@
+img{
+    
+    width: 200px;
+    height:200px;
+}
+
+body{
+    background-image: linear-gradient(to right , blue , red);
+    text-align: center;
+    
+        
+        
+
+h1{font-size: 150px;}
+
+
